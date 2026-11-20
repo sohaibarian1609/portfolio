@@ -19,17 +19,12 @@ gallery_images:
 ---
 
 <!-- markdownlint-disable MD033 -->
-I am learning how to edit my about page
-Hello how are you
-Hello kitty is underratedxxx
+
 
 ## As a conversation Starter yyyy
-
-Here are some places I have lived.
-
+Where I come from
 <comment>
-Flags are made using Wikipedia images
-</comment>
+I am from Afghanistan a country located in Central Asia</comment>
 
 <!-- The OCS grid grammar styles the container; JavaScript uses its id to add locations. -->
 <div class="ocs__grid ocs__grid--card" id="grid_container">
